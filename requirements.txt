@@ -1,0 +1,10 @@
+streamlit
+pdfplumber
+beautifulsoup4
+requests
+lxml
+spacy
+rapidfuzz
+python-dateutil
+tqdm
+pandas
